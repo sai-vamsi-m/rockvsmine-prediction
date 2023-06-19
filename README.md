@@ -1,4 +1,4 @@
-# Rockk vs Mine prediction with python
+# Rockk vs Mine prediction system
 
 ## Overview
 
